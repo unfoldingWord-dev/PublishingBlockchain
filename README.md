@@ -4,7 +4,7 @@
 
 ### Executive Summary
 
-The Bible Blockchain is a decentralized database of completed Bibles and biblical resources.  The blockchain contains metadata about these resources as well as digital signatures of people and organizations that approve of them.  The database is ideal for publishers of all sizes and developers to pull resources from to input into their pubishing engines.
+The Bible Blockchain is a decentralized database of completed biblical resources (Bibles, books of the Bible, discipleship resources, etc.).  The blockchain contains metadata about these resources as well as digital signatures of people and organizations that approve of them.  The database is ideal for publishers of all sizes and developers to pull resources from to input into their pubishing engines.
 
 ### Technical Summary
 
