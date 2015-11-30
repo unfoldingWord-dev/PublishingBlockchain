@@ -35,6 +35,8 @@ Notes on structure:
  - Any format of resource is accepted into the blockchain, but publishers will likely only be tooled for publishing certain types.
  - Versioning of content is managed entirely by timestamps and the `Related Content` field.  Publishers are free to implement different versioning systems based on this if they so choose (for example: https://unfoldingword.org/versioning/).
 
+Example entries in the blockchain:
+https://docs.google.com/spreadsheets/d/1t4b1-fRkKWGZSE7HH5oFUsEr7QeaXl51fOC2RTOlc90/
 
 ### Service Description
 Each node in the Bible Blockchain follows this procedure for accepting or rejecting a new transaction request:
