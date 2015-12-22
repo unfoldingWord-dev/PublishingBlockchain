@@ -1,10 +1,10 @@
-# Bible Blockchain Specification
+# Publishing Blockchain Specification
 
 ## Overview
 
 ### Executive Summary
 
-The Bible Blockchain is a decentralized database of completed biblical resources (Bibles, books of the Bible, discipleship resources, etc.).  The blockchain contains metadata about these resources as well as digital signatures of people and organizations that approve of them.  The database is ideal for publishers of all sizes and developers to pull resources from to input into their pubishing engines.
+The Publishing Blockchain is a decentralized database of completed resources.  The blockchain contains metadata about these resources as well as digital signatures of people and organizations that approve of them.  The database is ideal for publishers of all sizes and developers to pull resources from to input into their pubishing engines.
 
 ### Technical Summary
 
@@ -39,7 +39,7 @@ Example entries in the blockchain:
 https://docs.google.com/spreadsheets/d/1t4b1-fRkKWGZSE7HH5oFUsEr7QeaXl51fOC2RTOlc90/
 
 ### Service Description
-Each node in the Bible Blockchain follows this procedure for accepting or rejecting a new transaction request:
+Each node in the Publishing Blockchain follows this procedure for accepting or rejecting a new transaction request:
 
 1. Does the `signature` verify?
  - No → `Reject`
@@ -67,8 +67,8 @@ Clients are expected to offer one or more of the following services:
  - Data entry services (content creation, content translation, etc)
  - Identity management (signing keys)
  - Content upload services
- - Transaction requests to the Bible Blockchain when content is completed
- - Bible Blockchain browsing
+ - Transaction requests to the Publishing Blockchain when content is completed
+ - Publishing Blockchain browsing
 
 ### Identity Management
 
